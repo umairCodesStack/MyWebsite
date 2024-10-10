@@ -1,0 +1,1 @@
+﻿insert into Product(ProductName,ProductDescription) values(@n,@d)
